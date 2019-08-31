@@ -1,2 +1,3 @@
 # hello-world
 This is my very first repository in GitHub...
+My name is Alfred Jay V. Ngujo a Junior Web Developer aiming to be one of the top professioal out there..
